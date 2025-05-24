@@ -49,12 +49,16 @@ yarn add baileys
 
 Use the edge version (no guarantee of stability, but latest fixes + features)
 ```
-yarn add github:WhiskeySockets/Baileys
+yarn add github:AnggaxZx/Axz-Baileys
 ```
 
 Then import the default function in your code:
 ```ts 
 import makeWASocket from 'baileys'
+```
+Fix Baileys
+```
+github:AnggaxZx/Axz-Baileys
 ```
 
 # Links
